@@ -1,5 +1,7 @@
 # Smart ATS
 
+![Alt Text](ATS.gif)
+
 Smart ATS is a Streamlit application powered by Google's GenerativeAI that helps users improve their resumes by evaluating them against a provided job description. This intelligent tool acts as a skilled Application Tracking System (ATS), offering insights into matching percentages, missing keywords, and profile summaries.
 
 ## Features
